@@ -6,6 +6,7 @@
     font-size: 40px;
     width: 100%;   
     grid-column-gap: 20px; 
+    grid-row-gap: 5px;
 }
 
 .d1{
