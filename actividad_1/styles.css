@@ -1,0 +1,26 @@
+.container{
+    font-size: 40px;
+    width: 100%;
+    background-color: lightgray;
+    display: grid;
+}
+
+.d1{
+    background-color:cornflowerblue;
+}
+
+.d2{
+    background-color:lightcoral;
+}
+
+.d3{
+    background-color: aqua;
+}
+
+.d4{
+    background-color: pink;
+}
+
+.d5{
+    background-color: lightgreen;
+}
