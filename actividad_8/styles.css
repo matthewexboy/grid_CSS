@@ -1,0 +1,32 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 100px 2fr;
+    grid-template-rows: 50px 50px;
+    background-color: lightgray;
+    font-size: 40px;
+    width: 100%;   
+    height: 300px;
+    grid-gap: 10px;
+}
+
+.d1{
+    background-color:cornflowerblue;
+}
+
+.d2{
+    background-color:lightcoral;
+}
+
+.d3{
+    background-color: aqua;
+}
+
+.d4{
+    background-color: pink;
+}
+
+.d5{
+    background-color: lightgreen;
+    grid-column: 2/4;
+    grid-row:2/4
+}
